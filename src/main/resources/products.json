@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "product_name": "Smartphone",
+    "description": "Latest model smartphone with advanced camera features and a powerful processor.",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "product_name": "Smartphone",
+    "description": "Flagship smartphone with fast charging and a high refresh rate display.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "product_name": "Smartphone",
+    "description": "5G-enabled smartphone with a large screen and high-resolution camera.",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 4,
+    "product_name": "Laptop",
+    "description": "Lightweight laptop with a 15-inch display, fast performance, and extended battery.",
+    "brand": "Dell"
+  },
+  {
+    "id": 5,
+    "product_name": "Tablet",
+    "description": "Professional tablet with stylus support and stunning Retina display.",
+    "brand": "Apple"
+  },
+  {
+    "id": 6,
+    "product_name": "Smartphone",
+    "description": "Premium smartphone with AI-powered camera system and wireless charging.",
+    "brand": "Google"
+  },
+  {
+    "id": 7,
+    "product_name": "Laptop",
+    "description": "Business laptop with enterprise security features and long battery life.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 8,
+    "product_name": "Tablet",
+    "description": "Android tablet with keyboard support and multimedia capabilities.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 9,
+    "product_name": "Smartphone",
+    "description": "Gaming-focused smartphone with cooling system and high refresh rate.",
+    "brand": "ASUS"
+  },
+  {
+    "id": 10,
+    "product_name": "Laptop",
+    "description": "Premium ultrabook with touchscreen and dedicated graphics card.",
+    "brand": "HP"
+  },
+  {
+    "id": 11,
+    "product_name": "Tablet",
+    "description": "Budget-friendly tablet with good performance for everyday tasks.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 12,
+    "product_name": "Smartphone",
+    "description": "Mid-range smartphone with excellent battery life and clean Android.",
+    "brand": "Motorola"
+  },
+  {
+    "id": 13,
+    "product_name": "Laptop",
+    "description": "Gaming laptop with RTX graphics and high refresh rate display.",
+    "brand": "ASUS"
+  },
+  {
+    "id": 14,
+    "product_name": "Tablet",
+    "description": "Windows tablet with detachable keyboard and Surface Pen support.",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 15,
+    "product_name": "Smartphone",
+    "description": "Foldable smartphone with innovative design and multitasking capabilities.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 16,
+    "product_name": "Laptop",
+    "description": "Creator laptop with color-accurate display and powerful CPU.",
+    "brand": "MSI"
+  },
+  {
+    "id": 17,
+    "product_name": "Tablet",
+    "description": "Gaming tablet with triggers and customizable controls.",
+    "brand": "ASUS"
+  },
+  {
+    "id": 18,
+    "product_name": "Smartphone",
+    "description": "Camera-focused smartphone with Zeiss optics and 5G connectivity.",
+    "brand": "Nokia"
+  },
+  {
+    "id": 19,
+    "product_name": "Laptop",
+    "description": "Rugged laptop for field work with water resistance and durability.",
+    "brand": "Panasonic"
+  },
+  {
+    "id": 20,
+    "product_name": "Tablet",
+    "description": "E-ink tablet for reading and note-taking with paper-like display.",
+    "brand": "reMarkable"
+  },
+  {
+    "id": 21,
+    "product_name": "Smartphone",
+    "description": "Privacy-focused smartphone with enhanced security features.",
+    "brand": "BlackBerry"
+  },
+  {
+    "id": 22,
+    "product_name": "Laptop",
+    "description": "Convertible laptop with 360-degree hinge and pen support.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 23,
+    "product_name": "Tablet",
+    "description": "Large-screen tablet ideal for digital artists and designers.",
+    "brand": "Wacom"
+  },
+  {
+    "id": 24,
+    "product_name": "Smartphone",
+    "description": "Compact smartphone with premium build and wireless charging.",
+    "brand": "Sony"
+  },
+  {
+    "id": 25,
+    "product_name": "Laptop",
+    "description": "Workstation laptop with Xeon processor and Quadro graphics.",
+    "brand": "Dell"
+  },
+  {
+    "id": 26,
+    "product_name": "Tablet",
+    "description": "Rugged tablet for industrial use with barcode scanner.",
+    "brand": "Zebra"
+  },
+  {
+    "id": 27,
+    "product_name": "Smartphone",
+    "description": "Dual-screen smartphone for enhanced productivity.",
+    "brand": "LG"
+  },
+  {
+    "id": 28,
+    "product_name": "Laptop",
+    "description": "Chromebook with fast boot times and cloud integration.",
+    "brand": "Acer"
+  },
+  {
+    "id": 29,
+    "product_name": "Tablet",
+    "description": "Education-focused tablet with parental controls and durability.",
+    "brand": "Amazon"
+  },
+  {
+    "id": 30,
+    "product_name": "Smartphone",
+    "description": "Rugged smartphone with thermal camera and long battery life.",
+    "brand": "CAT"
+  },
+  {
+    "id": 31,
+    "product_name": "Laptop",
+    "description": "Thin and light laptop with Intel Evo certification.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 32,
+    "product_name": "Tablet",
+    "description": "Medical tablet with antimicrobial coating and secure boot.",
+    "brand": "Panasonic"
+  },
+  {
+    "id": 33,
+    "product_name": "Smartphone",
+    "description": "Gaming smartphone with attachable controllers and cooling fan.",
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 34,
+    "product_name": "Laptop",
+    "description": "Linux laptop with privacy switches and open hardware.",
+    "brand": "System76"
+  },
+  {
+    "id": 35,
+    "product_name": "Tablet",
+    "description": "Premium Android tablet with DeX mode for productivity.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 36,
+    "product_name": "Smartphone",
+    "description": "Ultra-premium smartphone with ceramic body and periscope zoom.",
+    "brand": "Huawei"
+  },
+  {
+    "id": 37,
+    "product_name": "Laptop",
+    "description": "ARM-based laptop with all-day battery life and instant wake.",
+    "brand": "Apple"
+  },
+  {
+    "id": 38,
+    "product_name": "Tablet",
+    "description": "5G tablet with cellular connectivity and GPS navigation.",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 39,
+    "product_name": "Smartphone",
+    "description": "Modular smartphone with replaceable components.",
+    "brand": "Fairphone"
+  },
+  {
+    "id": 40,
+    "product_name": "Laptop",
+    "description": "Budget laptop with good performance for everyday computing.",
+    "brand": "ASUS"
+  },
+  {
+    "id": 41,
+    "product_name": "Tablet",
+    "description": "Mini tablet with compact size and powerful speakers.",
+    "brand": "Huawei"
+  },
+  {
+    "id": 42,
+    "product_name": "Smartphone",
+    "description": "Professional smartphone with built-in stylus and productivity apps.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 43,
+    "product_name": "Laptop",
+    "description": "Gaming laptop with mechanical keyboard and RGB lighting.",
+    "brand": "Razer"
+  },
+  {
+    "id": 44,
+    "product_name": "Tablet",
+    "description": "Chrome OS tablet with Android app support and keyboard.",
+    "brand": "HP"
+  },
+  {
+    "id": 45,
+    "product_name": "Smartphone",
+    "description": "Flagship killer with premium features at mid-range price.",
+    "brand": "Realme"
+  },
+  {
+    "id": 46,
+    "product_name": "Laptop",
+    "description": "Sustainable laptop with recycled materials and repairability.",
+    "brand": "Framework"
+  },
+  {
+    "id": 47,
+    "product_name": "Tablet",
+    "description": "Professional tablet with OLED display and quad speakers.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 48,
+    "product_name": "Smartphone",
+    "description": "Compact flagship with advanced photography capabilities.",
+    "brand": "Vivo"
+  },
+  {
+    "id": 49,
+    "product_name": "Laptop",
+    "description": "2-in-1 laptop with detachable screen and stylus support.",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 50,
+    "product_name": "Tablet",
+    "description": "Budget tablet with good display and basic features.",
+    "brand": "TCL"
+  }
+]
