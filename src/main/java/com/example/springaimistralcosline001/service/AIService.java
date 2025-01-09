@@ -1,15 +1,15 @@
-package com.example.springaimistralsimilake001.service;
+package com.example.springaimistralcosline001.service;
 
-import com.example.springaimistralsimilake001.model.Product;
+import com.example.springaimistralcosline001.model.Product;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.similake.client.store.SimilakeVectorStore;
+import org.cosline.client.store.CoslineVectorStore;
+
 import org.springframework.ai.document.Document;
 import org.springframework.ai.transformer.splitter.TextSplitter;
 import org.springframework.ai.transformer.splitter.TokenTextSplitter;
 import org.springframework.ai.vectorstore.SearchRequest;
 
-import org.springframework.ai.vectorstore.VectorStore;
 import org.springframework.ai.vectorstore.filter.FilterExpressionBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -26,7 +26,7 @@ import java.util.Map;
 @Service
 public class AIService {
     @Autowired
-    SimilakeVectorStore vectorStore;
+    CoslineVectorStore vectorStore;
 
     @Value("classpath:products.json")
     Resource resource;

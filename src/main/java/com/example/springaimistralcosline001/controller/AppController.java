@@ -1,6 +1,6 @@
-package com.example.springaimistralsimilake001.controller;
+package com.example.springaimistralcosline001.controller;
 
-import com.example.springaimistralsimilake001.service.AIService;
+import com.example.springaimistralcosline001.service.AIService;
 
 import org.springframework.ai.document.Document;
 import org.springframework.beans.factory.annotation.Autowired;

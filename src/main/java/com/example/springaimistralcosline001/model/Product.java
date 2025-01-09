@@ -1,4 +1,4 @@
-package com.example.springaimistralsimilake001.model;
+package com.example.springaimistralcosline001.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

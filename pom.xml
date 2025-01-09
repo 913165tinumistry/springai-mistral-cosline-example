@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>springai-mistral-similake-001</artifactId>
+    <artifactId>springai-mistral-cosline-001</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springai-mistral-similake-001</name>
-    <description>springai-mistral-similake-001</description>
+    <name>springai-mistral-cosline-001</name>
+    <description>springai-mistral-cosline-001</description>
     <url/>
     <licenses>
         <license/>
@@ -40,8 +40,8 @@
             <artifactId>spring-ai-mistral-ai-spring-boot-starter</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.similake</groupId>
-            <artifactId>similake-client</artifactId>
+            <groupId>org.cosline</groupId>
+            <artifactId>cosline-client</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>

@@ -1,10 +1,10 @@
-package com.example.springaimistralsimilake001;
+package com.example.springaimistralcosline001;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringaiMistralSimilake001ApplicationTests {
+class SpringaiMistralCosline001ApplicationTests {
 
     @Test
     void contextLoads() {

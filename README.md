@@ -1,2 +1,2 @@
-# springai-mistral-similake-example
-# springai-mistral-similake-example
+# springai-mistral-cosline-example
+# springai-mistral-cosline-example
